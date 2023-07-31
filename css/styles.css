@@ -1,0 +1,36 @@
+.nav {
+    font-size: 14px;
+}
+
+.title {
+    color: #FFF;
+    background: #2F303A;
+    font-size: 44px;
+}
+
+.div {
+    font-size: 14px;
+}
+
+.section {
+    color: #212121;
+    font-size: 14px;
+}
+
+.li {
+    background: #FFFFFF;
+}
+
+.pages {
+    background: #FFFFFF;
+}
+
+.h3 {
+    color: #212121;
+    font-size: 18px;
+}
+
+.p {
+    color: #757575;
+    font-size: 16px;
+}
